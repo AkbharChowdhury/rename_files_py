@@ -1,0 +1,12 @@
+https://www.askpython.com/python/examples/rename-a-file-directory-pythondef rename_folders():
+
+https://www.askpython.com/python/examples/rename-a-file-directory-python
+
+
+
+https://docs.python.org/3/library/exceptions.html
+
+
+https://www.geeksforgeeks.org/python-os-path-isdir-method/
+
+
