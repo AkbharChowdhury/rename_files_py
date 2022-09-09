@@ -1,10 +1,14 @@
 import os
 from os import path
+from classes.helper import Helper
 
 
 class FolderHandler:
 
-    def rename_folder(self, root_dir):
+    def rename_folder(self, root_dir=''):
+
+        if not Helper.valid_input(root_dir):
+            return
 
         if not path.exists(root_dir):
             print('Error: the specified directory cannot be found')
